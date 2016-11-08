@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					5266D29D1DD1A95E005E9206 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = U6JP7S27NV;
 						ProvisioningStyle = Automatic;
 					};
 					5266D2B11DD1A95E005E9206 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = U6JP7S27NV;
 				INFOPLIST_FILE = FirebaseTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shiba.FirebaseTest;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = U6JP7S27NV;
 				INFOPLIST_FILE = FirebaseTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shiba.FirebaseTest;
